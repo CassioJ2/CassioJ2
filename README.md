@@ -10,7 +10,7 @@
   <img align="center" alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cassio-Djs" height="60" width="60" src="icons/26492485.png">
   
-  <img align="right" alt="Cassio-pic" height="100" style="border-radius:50px;" src="icons/love.jpeg">
+  <img align="right" alt="Cassio-pic" height="250" style="border-radius:50px;" src="icons/image_maker_42ba86d1d6c729f9642054d6284bf9dcb0b6ac06.png">
 </div>
 
 </div>
