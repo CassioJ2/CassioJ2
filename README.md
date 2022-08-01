@@ -15,7 +15,7 @@
 
 </div>
 
-##
+  ## Focused on Game Developer but I also have a discord bot :)
 
 </div>
 
