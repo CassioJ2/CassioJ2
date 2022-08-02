@@ -10,8 +10,8 @@
 
 
   <a href="https://github.com/CassioJ2">
-  <img height="%" src="https://github-readme-stats.vercel.app/api?username=CassioJ2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJ2&layout=compact&langs_count=1000&theme=tokyonight"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=CassioJ2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJ2&layout=compact&langs_count=1000&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,12 +19,11 @@
   <img align="center" alt="Cassio-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cassio-Djs" height="60" width="60" src="icons/26492485.png">
-  
 </div>
 
 </div>
 
-  ## Focused on Game Development but I also have a discord bot :)
+  ## I'm focused on Game Development but I also have a discord bot :)
 
 </div>
 
