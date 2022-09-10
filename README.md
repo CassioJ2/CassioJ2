@@ -14,7 +14,7 @@
   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJ2&layout=compact&langs_count=1000&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline"><br>
   <img align="center" alt="Cassio-Unity" height="60" width="80" src="icons/unity.svg">
   <img align="center" alt="Cassio-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
