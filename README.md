@@ -4,7 +4,7 @@
 <img align="center" alt="Cassio-pic" height="250" style="border-radius:50px;" src="icons/image_maker_42ba86d1d6c729f9642054d6284bf9dcb0b6ac06.png">
 
 
-<h1 align="center">Welcome to my GitHub profile</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 
 
@@ -14,23 +14,20 @@
   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJ2&layout=compact&langs_count=1000&theme=tokyonight"/>
 </div>
 
-<div style="display: inline"><br>
-  <img align="center" alt="Cassio-Unity" height="60" width="80" src="icons/unity.svg">
-  <img align="center" alt="Cassio-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cassio-Djs" height="60" width="60" src="icons/26492485.png">
+<div align="center">
+  
+   <h1 style="text-size: 20%"> I'm Game Developer and DiscordJS Developer! <h1>
+
+  <img alt="Cassio-Unity" height="60" width="80" src="icons/unity.svg">
+  <img alt="Cassio-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Cassio-Djs" height="60" width="60" src="icons/26492485.png">
+  
 </div>
 
-</div>
+<div align="center"> 
 
-  ## I'm focused on Game Development but I also have a discord bot :)
-
-</div>
-
-<div> 
-
-
-
+  
   <a href="https://instagram.com/almeidacassio02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/synceapenas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AEBkQMV2jM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
