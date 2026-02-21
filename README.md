@@ -23,7 +23,7 @@
 
 Desenvolvedor Back-End com foco em construção de software robusto, eficiente e escalável.
 
-Minha base em desenvolvimento de jogos e aplicações em tempo real me proporcionou forte domínio em lógica, arquitetura e otimização de desempenho — competências que aplico no desenvolvimento de sistemas complexos e Back-End.
+Minha base em desenvolvimento de jogos e aplicações em tempo real me proporcionou forte domínio em lógica, arquitetura e otimização de desempenho, competências que aplico no desenvolvimento de sistemas complexos e Back-End.
 
 💡 Atualmente trabalhando em software 3D de alta complexidade e ferramentas de engenharia de simulação.
 
